@@ -3,11 +3,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace 'com.wjp.gitapp'
     compileSdk 32
 
     defaultConfig {
         applicationId "com.wjp.gitapp"
+=======
+    namespace 'com.dresden.gitapp'
+    compileSdk 32
+
+    defaultConfig {
+        applicationId "com.dresden.gitapp"
+>>>>>>> 54151da39aa73d1fd8e4fe0a13d70262691ec5b9
         minSdk 16
         targetSdk 32
         versionCode 1
